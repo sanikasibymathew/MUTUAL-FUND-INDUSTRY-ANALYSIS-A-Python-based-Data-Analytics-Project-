@@ -353,7 +353,8 @@ This represents an overall growth of 139.81%.
 The highest monthly folio increase occurred in July 2024, with an increase of approximately 
 7.36 million folios.
 The lowest monthly folio growth occurred in November 2020, with a small decline of approximately 0.04%.
- <img width="455" height="193" alt="image" src="https://github.com/user-attachments/assets/d0ef95b8-82b8-4e48-948d-bb22ac40f3bb" />
+
+<img width="455" height="193" alt="image" src="https://github.com/user-attachments/assets/d0ef95b8-82b8-4e48-948d-bb22ac40f3bb" />
 
 
 8.5 Annual Folio Growth
@@ -381,7 +382,8 @@ Average net flow by calendar month showed considerable variation.
 The strongest average net flow was recorded in April: +112,146.68
 The weakest average net flow was recorded in March: −98,203.44
 This pattern suggests that certain calendar months experienced stronger or weaker average flows within the available historical data. However, the result should not be interpreted as a universal seasonal pattern without a longer and more complete dataset.
- <img width="463" height="201" alt="image" src="https://github.com/user-attachments/assets/a5ac32e9-4b89-49ef-8402-eba1043e682e" />
+
+<img width="463" height="201" alt="image" src="https://github.com/user-attachments/assets/a5ac32e9-4b89-49ef-8402-eba1043e682e" />
 
 
 8.9 Net Flow Volatility
@@ -399,7 +401,8 @@ The negative skewness indicates a slightly longer negative tail, while the posit
 The correlation between monthly AUM change and net inflow/outflow was 0.784.
 This represents a strong positive relationship.
 It indicates that months with higher net inflows generally tended to experience larger increases in AUM. However, the relationship is not perfect because AUM can also be affected by other factors such as changes in asset values.
- <img width="467" height="294" alt="image" src="https://github.com/user-attachments/assets/b975dd26-6eb0-45ef-a683-6f4e11cb82dc" />
+
+<img width="467" height="294" alt="image" src="https://github.com/user-attachments/assets/b975dd26-6eb0-45ef-a683-6f4e11cb82dc" />
 
 
 Monthly AUM changes and net inflow/outflow generally moved in the same direction, with a strong positive correlation of 0.784. This indicates that months with higher net inflows tended to experience larger increases in AUM, although the two measures did not move identically in every month.
