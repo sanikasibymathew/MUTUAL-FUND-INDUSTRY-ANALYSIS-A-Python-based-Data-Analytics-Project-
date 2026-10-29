@@ -200,6 +200,7 @@ The distribution of scheme types showed:
 •	Interval Schemes: 192
 Open-ended schemes clearly dominate the dataset.
  
+<img width="467" height="292" alt="image" src="https://github.com/user-attachments/assets/1a206753-165b-44bf-ac90-b65f205ca5f1" />
 
 
 
