@@ -213,6 +213,7 @@ The distribution of scheme categories was:
 •	Hybrid: 384
 •	Solution Oriented: 128
  
+<img width="485" height="321" alt="image" src="https://github.com/user-attachments/assets/893da11e-70fb-4733-b265-709e5db1d139" />
 
 
 Income/Debt Oriented Schemes had the largest number of observations, while Solution Oriented Schemes had the smallest.
@@ -225,7 +226,8 @@ Income/Debt Oriented Schemes had the largest number of observations, while Solut
 The number of schemes was strongly right-skewed.
 The mean was approximately 32.90, while the median was 22. The maximum value reached 800.
 
- 
+ <img width="459" height="291" alt="image" src="https://github.com/user-attachments/assets/639e2091-efbf-49f5-9c16-e7b17ed97be1" />
+
 
 This indicates that most observations contain relatively smaller numbers of schemes, while a smaller number of observations contain substantially higher values.
 
@@ -233,17 +235,20 @@ This indicates that most observations contain relatively smaller numbers of sche
 The number of investor folios was also strongly right-skewed.
 The median was approximately 521,606, while the mean was approximately 2.52 million.
  
+<img width="469" height="298" alt="image" src="https://github.com/user-attachments/assets/3fa6ab2c-3a88-4587-b5df-edbba8b065dc" />
 
 This difference indicates that a relatively small number of observations have exceptionally high investor participation.
 
 7.6 Investor Participation by Scheme Category
 Growth/Equity Oriented Schemes recorded the highest total investor folios at approximately 5.40 billion in the dataset.
- 
+ <img width="461" height="260" alt="image" src="https://github.com/user-attachments/assets/a659167e-a22d-46bf-8d49-f15d4c395c02" />
+
 This indicates that the Growth/Equity category had the largest recorded investor participation among the categories analysed.
 
 7.7 Net AUM by Scheme Category
 Income/Debt Oriented Schemes recorded the highest total Net AUM at approximately 87.78 million, followed closely by Growth/Equity Oriented Schemes at approximately 85.87 million.
  
+<img width="485" height="274" alt="image" src="https://github.com/user-attachments/assets/9076e098-b173-479d-ac0b-518ed2a90ed8" />
 
 An interesting observation is that Growth/Equity schemes had substantially more recorded folios, while Income/Debt schemes had slightly higher total AUM.
 
@@ -255,27 +260,32 @@ The dataset-level statistics included:
 •	Minimum: −157,970.38
 •	Maximum: 102,751.50
  
+<img width="458" height="299" alt="image" src="https://github.com/user-attachments/assets/fb57ba3b-40d4-4d2e-98c0-36b869c01f49" />
 
 The wide difference between the mean and median indicates that extreme financial movements influence the distribution.
 
 7.9 Net Inflow/Outflow by Category
 Growth/Equity Oriented Schemes recorded the highest total net inflow at approximately 653,403, followed by Other Schemes at approximately 540,091.
  
+<img width="473" height="270" alt="image" src="https://github.com/user-attachments/assets/2c701f3d-455a-4a37-86bd-c2ddc03c282e" />
 
 Hybrid Schemes also recorded positive net inflows, while Income/Debt and Solution Oriented Schemes recorded comparatively smaller positive net inflows.
 
 7.10 Fund Mobilization vs Repurchase/Redemption
 Income/Debt Oriented Schemes recorded the highest fund mobilization at approximately 58.72 million, closely followed by repurchase/redemption at approximately 58.71 million.
  
+<img width="467" height="251" alt="image" src="https://github.com/user-attachments/assets/6b6473ff-dc3b-43e1-b4df-c6da2f64cbcb" />
 
 Overall, fund mobilization and repurchase/redemption were relatively close within the categories, showing that a substantial portion of mobilized funds was offset by redemptions.
 
 7.11 Distribution Analysis
 Histograms and box plots were used to analyse Net AUM and investor folios.
  
- 
+ <img width="474" height="345" alt="image" src="https://github.com/user-attachments/assets/9250c034-31e8-497f-802a-53cd56f91613" />
+
 
 Both variables showed strong right-skewed distributions, with long upper tails.
+<img width="467" height="173" alt="image" src="https://github.com/user-attachments/assets/3f7b7d11-b65c-4050-a396-b3d8d0d3dbec" />
  
 
 The log-transformed visualizations helped make smaller observations easier to compare with very large observations. However, the transformation was used only for visualization and did not remove or modify the original outliers.
@@ -287,6 +297,7 @@ In the monthly dataset:
 •	AUM and net inflow/outflow: 0.237
 •	Folios and net inflow/outflow: 0.167
  
+<img width="463" height="322" alt="image" src="https://github.com/user-attachments/assets/9cf869cf-8c55-46d4-a08a-d92bde191129" />
 
 The very strong relationship between AUM and folios indicates that both generally increased together over the analysed period.
 The relationship between total AUM/folios and net flow was comparatively weak.
@@ -305,7 +316,8 @@ The analysis focused on AUM, investor folios, fund flows, monthly changes, annua
 The monthly analysis showed an overall upward movement in Net AUM, although the trend included several periods of decline.
 The first monthly AUM was approximately 2,478,756.91, while the latest value was approximately 6,496,653.14.
 The overall increase was 162.09%.
- 
+ <img width="481" height="201" alt="image" src="https://github.com/user-attachments/assets/981f2ad9-62db-40f8-9b1e-8989a591c633" />
+
 
 8.2 Monthly AUM Growth
 The largest monthly AUM decline occurred in March 2020, when AUM decreased by approximately 18.24%.
@@ -313,6 +325,7 @@ The highest monthly percentage increase occurred in April 2020, at approximately
 The largest absolute monthly AUM decrease was March 2020: −496,734.47
 The largest increase was April 2024: +385,703.32
  
+<img width="472" height="196" alt="image" src="https://github.com/user-attachments/assets/9b36af0d-7a51-4a5a-a801-3892cda12d55" />
 
 
 8.3 Annual AUM Growth
@@ -327,7 +340,8 @@ Year	Year-End AUM	AUM Growth
 *2024 contains data only through July.
 The highest annual AUM growth was observed in 2024 at 27.94%, while the lowest was 2022 at 5.73%.
 
- 
+ <img width="468" height="232" alt="image" src="https://github.com/user-attachments/assets/3c9f791f-8073-4ab1-b2fc-82c3ca35bae1" />
+
 
 
 8.4 Investor Folio Trend
@@ -338,7 +352,8 @@ This represents an overall growth of 139.81%.
 The highest monthly folio increase occurred in July 2024, with an increase of approximately 
 7.36 million folios.
 The lowest monthly folio growth occurred in November 2020, with a small decline of approximately 0.04%.
- 
+ <img width="455" height="193" alt="image" src="https://github.com/user-attachments/assets/d0ef95b8-82b8-4e48-948d-bb22ac40f3bb" />
+
 
 8.5 Annual Folio Growth
 The highest annual folio growth occurred in 2021 at 27.42%.
@@ -365,7 +380,8 @@ Average net flow by calendar month showed considerable variation.
 The strongest average net flow was recorded in April: +112,146.68
 The weakest average net flow was recorded in March: −98,203.44
 This pattern suggests that certain calendar months experienced stronger or weaker average flows within the available historical data. However, the result should not be interpreted as a universal seasonal pattern without a longer and more complete dataset.
- 
+ <img width="463" height="201" alt="image" src="https://github.com/user-attachments/assets/a5ac32e9-4b89-49ef-8402-eba1043e682e" />
+
 
 8.9 Net Flow Volatility
 The average monthly net flow was approximately 23,039.76, while the standard deviation was approximately 81,540.08.
@@ -382,7 +398,8 @@ The negative skewness indicates a slightly longer negative tail, while the posit
 The correlation between monthly AUM change and net inflow/outflow was 0.784.
 This represents a strong positive relationship.
 It indicates that months with higher net inflows generally tended to experience larger increases in AUM. However, the relationship is not perfect because AUM can also be affected by other factors such as changes in asset values.
- 
+ <img width="467" height="294" alt="image" src="https://github.com/user-attachments/assets/b975dd26-6eb0-45ef-a683-6f4e11cb82dc" />
+
 
 Monthly AUM changes and net inflow/outflow generally moved in the same direction, with a strong positive correlation of 0.784. This indicates that months with higher net inflows tended to experience larger increases in AUM, although the two measures did not move identically in every month.
 
@@ -403,6 +420,7 @@ This represents a weak positive relationship.
  
  The result suggests that months with larger increases in investor folios tended to coincide somewhat with increases in AUM, but the relationship was not strong.
 
+<img width="331" height="331" alt="image" src="https://github.com/user-attachments/assets/633f80df-88b0-4e0e-9c99-b67fdde04577" />
 
 
 
