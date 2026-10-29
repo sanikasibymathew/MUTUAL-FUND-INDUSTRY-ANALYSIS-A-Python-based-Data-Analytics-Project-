@@ -241,7 +241,8 @@ This difference indicates that a relatively small number of observations have ex
 
 7.6 Investor Participation by Scheme Category
 Growth/Equity Oriented Schemes recorded the highest total investor folios at approximately 5.40 billion in the dataset.
- <img width="461" height="260" alt="image" src="https://github.com/user-attachments/assets/a659167e-a22d-46bf-8d49-f15d4c395c02" />
+
+<img width="461" height="260" alt="image" src="https://github.com/user-attachments/assets/a659167e-a22d-46bf-8d49-f15d4c395c02" />
 
 This indicates that the Growth/Equity category had the largest recorded investor participation among the categories analysed.
 
